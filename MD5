@@ -1,0 +1,12 @@
+585748314e3e1d8d4b8a5fd741e1c33a *DESCRIPTION
+3345c1d5c46a969f0fde0ecdc3f0870b *NAMESPACE
+3c6b28ace32950e467d6d3e936ccf2ed *R/T2EQ.R
+7eab30f9394eda8c1530126fbc445864 *R/T2EQ.dissolution.profiles.hoffelder.R
+c2aa58ba61098dbe7041b925d893bc04 *build/partial.rdb
+87a379625c4e54a4dcd388d27a9f63de *data/ex_data_JoBS.rda
+dfd2dd2e0e68f18e72e73a2b0fb3b264 *data/ex_data_pharmind.rda
+e0a0654860b89a1a3d36f0fdc6a57f91 *man/T2EQ-package.Rd
+285a4934c027b6388ed02ab0951fcf80 *man/T2EQ.Rd
+e433a4eb7dfa783cf6dd4f19935e2fa2 *man/T2EQ.dissolution.profiles.hoffelder.Rd
+3e8ad152f0c7a2051b979f6281522a6f *man/ex_data_JoBS.Rd
+a6f6209ef7f164bb8cebfa14973a4330 *man/ex_data_pharmind.Rd
